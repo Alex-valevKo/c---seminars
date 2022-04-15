@@ -1,0 +1,15 @@
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.csproj.AssemblyReference.cache
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.GeneratedMSBuildEditorConfig.editorconfig
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.AssemblyInfoInputs.cache
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.AssemblyInfo.cs
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.csproj.CoreCompileInputs.cache
+D:\lern\c#\seminars\Seminar 1 c#\square\bin\Debug\net6.0\square.exe
+D:\lern\c#\seminars\Seminar 1 c#\square\bin\Debug\net6.0\square.deps.json
+D:\lern\c#\seminars\Seminar 1 c#\square\bin\Debug\net6.0\square.runtimeconfig.json
+D:\lern\c#\seminars\Seminar 1 c#\square\bin\Debug\net6.0\square.dll
+D:\lern\c#\seminars\Seminar 1 c#\square\bin\Debug\net6.0\square.pdb
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.dll
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\refint\square.dll
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.pdb
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\square.genruntimeconfig.cache
+D:\lern\c#\seminars\Seminar 1 c#\square\obj\Debug\net6.0\ref\square.dll
